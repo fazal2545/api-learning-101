@@ -23,7 +23,7 @@ body:
   - type: input
     id: submitter-name
     attributes:
-      label: Jamaldeen Fesal
+      label: Enter the full name
       description: Enter your full name
       placeholder: "e.g., John Doe"
     validations:
